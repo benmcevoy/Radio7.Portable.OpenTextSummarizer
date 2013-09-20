@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio7.Portable.OpenTextSummarizer", "Radio7.Portable.OpenTextSummarizer\Radio7.Portable.OpenTextSummarizer.csproj", "{5E51329E-D368-444E-A731-ABCE9946FDA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio7.Portable.OpenTextSummarizer.Test", "Radio7.Portable.OpenTextSummarizer.Test\Radio7.Portable.OpenTextSummarizer.Test.csproj", "{13504BE0-1DF7-4B33-99C8-1442A107E46A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{5E51329E-D368-444E-A731-ABCE9946FDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E51329E-D368-444E-A731-ABCE9946FDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E51329E-D368-444E-A731-ABCE9946FDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13504BE0-1DF7-4B33-99C8-1442A107E46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13504BE0-1DF7-4B33-99C8-1442A107E46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13504BE0-1DF7-4B33-99C8-1442A107E46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13504BE0-1DF7-4B33-99C8-1442A107E46A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

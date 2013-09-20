@@ -4,7 +4,6 @@ namespace Radio7.Portable.OpenTextSummarizer
 {
     internal class Stemmer
     {
-
         internal static Word StemWord(string word, Dictionary rules)
         {
             word = word.ToLower();
